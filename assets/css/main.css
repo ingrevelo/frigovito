@@ -68,6 +68,7 @@
 		float: left;
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
+		
 		box-sizing: border-box;
 	}
 
@@ -3775,10 +3776,10 @@
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #F1F1F1, #D41E17);
+				background-image: -webkit-linear-gradient(to right, #F1F1F1, #D41E17);
+				background-image: -ms-linear-gradient(to right, #F1F1F1, #D41E17);
+				background-image: linear-gradient(to right, #F1F1F1, #D41E17);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
