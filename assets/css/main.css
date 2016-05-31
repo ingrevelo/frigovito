@@ -3253,7 +3253,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #D41E17;
+			background-color: #FFFFFF;
 		}
 
 		.wrapper.style1-alt {
@@ -3906,6 +3906,7 @@
 
 				#intro p {
 					font-size: 1em;
+					color: #27285C;
 				}
 
 			}
