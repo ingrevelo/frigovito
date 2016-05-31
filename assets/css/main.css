@@ -3276,9 +3276,9 @@
 		}
 
 		.wrapper.style3-alt {
-			background-color: transparent;
-			background-image: url("images/main.jpg");
-			/*background-color: #953d75;*/
+			/*background-color: transparent;
+			background-image: url("images/main.jpg");*/
+			background-color: #953d75;
 		}
 
 		.wrapper.fullscreen {
