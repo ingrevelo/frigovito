@@ -3269,9 +3269,8 @@
 		}
 
 		.wrapper.style3 {
-			background-image: none;
+			background-color: transparent;
 			background-image: url("images/main.jpg");
-			background-image: inherit;
 			/*background-color: #b74e91;*/
 		}
 
