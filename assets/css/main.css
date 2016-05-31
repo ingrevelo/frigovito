@@ -3269,7 +3269,13 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: auto;
+			opacity: 0.6;
+			/*background-color: #b74e91;*/
 		}
 
 		.wrapper.style3-alt {
