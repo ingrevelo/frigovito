@@ -3218,6 +3218,9 @@
 
 	.wrapper {
 		position: relative;
+		border: #51527F;
+    		border-style: outset;
+    		border-width: thin;
 	}
 
 		.wrapper > .inner {
