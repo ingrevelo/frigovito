@@ -3380,7 +3380,7 @@
 		}
 
 		.wrapper.fade.inactive > .inner, body.is-loading .wrapper.fade > .inner {
-			opacity: 0;
+			opacity: 1.0;
 		}
 
 /* Header */
