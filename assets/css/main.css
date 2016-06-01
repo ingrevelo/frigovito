@@ -3270,19 +3270,17 @@
 
 		.wrapper.style3 {
 			background-color: transparent;
-			background-image: url("images/main.jpg");
+			background-image: url("images/main.png");
 			background-repeat:no-repeat;
 			background-size:cover;
-			opacity : 0.2;
 			/*background-color: #b74e91;*/
 		}
 
 		.wrapper.style3-alt {
 			background-color: transparent;
-			background-image: url("images/main.jpg");
+			background-image: url("images/main.png");
 			background-repeat:no-repeat;
 			background-size:cover;
-			opacity : 0.2;
 			/*background-color: #953d75;*/
 		}
 
