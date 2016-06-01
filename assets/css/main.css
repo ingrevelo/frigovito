@@ -3340,7 +3340,7 @@
 			-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 			-ms-transition: opacity 1s ease, -ms-transform 1s ease;
 			transition: opacity 1s ease, transform 1s ease;
-			opacity: 1.0;
+			opacity: 0;
 		}
 
 		.wrapper.fade-up.inactive > .inner, body.is-loading .wrapper.fade-up > .inner {
@@ -3360,7 +3360,7 @@
 			-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 			-ms-transition: opacity 1s ease, -ms-transform 1s ease;
 			transition: opacity 1s ease, transform 1s ease;
-			opacity: 1.0;
+			opacity: 0;
 		}
 
 		.wrapper.fade-down.inactive > .inner, body.is-loading .wrapper.fade-down > .inner {
@@ -3376,11 +3376,11 @@
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			opacity: 1.0;
+			opacity: 0;
 		}
 
 		.wrapper.fade.inactive > .inner, body.is-loading .wrapper.fade > .inner {
-			opacity: 1.0;
+			opacity: 0;
 		}
 
 /* Header */
