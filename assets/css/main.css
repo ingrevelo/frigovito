@@ -3344,7 +3344,7 @@
 		}
 
 		.wrapper.fade-up.inactive > .inner, body.is-loading .wrapper.fade-up > .inner {
-			opacity: 1.0;
+			opacity: 0;
 			-moz-transform: translateY(1em);
 			-webkit-transform: translateY(1em);
 			-ms-transform: translateY(1em);
@@ -3364,7 +3364,7 @@
 		}
 
 		.wrapper.fade-down.inactive > .inner, body.is-loading .wrapper.fade-down > .inner {
-			opacity: 1.0;
+			opacity: 0;
 			-moz-transform: translateY(-1em);
 			-webkit-transform: translateY(-1em);
 			-ms-transform: translateY(-1em);
@@ -3380,7 +3380,7 @@
 		}
 
 		.wrapper.fade.inactive > .inner, body.is-loading .wrapper.fade > .inner {
-			opacity: 1.0;
+			opacity: 0;
 		}
 
 /* Header */
